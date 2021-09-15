@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Class-Path: tomcat-el-api-9.0.12.jar commons-codec-1.11.jar tomcat-jul
+ i-9.0.12.jar tomcat-org.earthquake.util-9.0.12.jar tomcat-servlet-api-9.0.12.jar htt
+ pcore-4.4.11.jar httpclient-4.5.8.jar tomcat-catalina-9.0.12.jar tomc
+ at-jaspic-api-9.0.12.jar tomcat-coyote-9.0.12.jar tomcat-api-9.0.12.j
+ ar tomcat-jni-9.0.12.jar commons-logging-1.2.jar tomcat-org.earthquake.util-scan-9.0
+ .12.jar tomcat-jsp-api-9.0.12.jar tomcat-annotations-api-9.0.12.jar
+Main-Class: org.earthquake.MainProcedure.requestData
+
